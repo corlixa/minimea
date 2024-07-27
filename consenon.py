@@ -1,0 +1,3 @@
+for f in filenames:
+    # Code to be executed for each filename
+    # ...
